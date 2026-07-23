@@ -65,6 +65,17 @@
       "lastLogin": "2026-07-23T17:25:43.444Z",
       "ipAddress": "10.29.194.131",
       "lastKeyGen": "2026-07-23T17:28:58.555Z"
+    },
+    {
+      "username": "Kupalpoako",
+      "password": "gwapoko143",
+      "createdAt": "2026-07-23T19:00:28.390Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.29.194.131",
+      "lastKeyGen": null
     }
   ]
 }
