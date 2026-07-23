@@ -1,3 +1,15 @@
 {
-  "users": []
+  "users": [
+    {
+      "username": "qweqwe",
+      "password": "qweqwe",
+      "createdAt": "2026-07-23T09:08:21.754Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.27.142.130",
+      "lastKeyGen": null
+    }
+  ]
 }
