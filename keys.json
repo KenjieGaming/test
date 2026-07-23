@@ -14,6 +14,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.27.142.130",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "key": "OA1H-PLBQ-BZ3T-DKW2",
+      "username": "johnnysins",
+      "createdAt": "2026-07-23T10:59:12.229Z",
+      "expiresAt": "2026-07-23T14:59:12.229Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.29.194.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
