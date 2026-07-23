@@ -10,6 +10,17 @@
       "lastLogin": "2026-07-23T10:04:10.800Z",
       "ipAddress": "10.29.194.131",
       "lastKeyGen": "2026-07-23T10:04:17.043Z"
+    },
+    {
+      "username": "johnnysins",
+      "password": "bravo123",
+      "createdAt": "2026-07-23T10:58:32.164Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.29.194.131",
+      "lastKeyGen": null
     }
   ]
 }
