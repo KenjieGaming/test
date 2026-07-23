@@ -44,6 +44,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.30.81.130",
       "verifiedUserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "key": "FVEF-8HWX-AEAJ-Q6QM",
+      "username": "Mineheartgwapo",
+      "createdAt": "2026-07-23T12:15:51.015Z",
+      "expiresAt": "2026-07-23T16:15:51.015Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.29.194.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
