@@ -1,3 +1,15 @@
 {
-  "users": []
+  "users": [
+    {
+      "username": "joms84",
+      "password": "112515jomilu",
+      "createdAt": "2026-07-23T09:59:38.786Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.29.194.131",
+      "lastKeyGen": null
+    }
+  ]
 }
