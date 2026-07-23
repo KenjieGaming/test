@@ -48,12 +48,12 @@
       "username": "JHAY",
       "password": "09262799800",
       "createdAt": "2026-07-23T17:25:36.371Z",
-      "keysGenerated": 1,
-      "totalKeys": 1,
+      "keysGenerated": 2,
+      "totalKeys": 2,
       "activeKeys": 1,
       "lastLogin": "2026-07-23T21:55:50.599Z",
       "ipAddress": "10.29.194.131",
-      "lastKeyGen": "2026-07-23T17:28:58.555Z"
+      "lastKeyGen": "2026-07-23T21:56:02.757Z"
     }
   ]
 }
