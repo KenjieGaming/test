@@ -59,21 +59,6 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.29.194.131",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-    },
-    {
-      "key": "RVQ6-TZ9N-WFWI-ORNB",
-      "username": "JHAY",
-      "createdAt": "2026-07-23T17:28:58.555Z",
-      "expiresAt": "2026-07-23T21:28:58.555Z",
-      "status": "expired",
-      "type": "1day",
-      "ip": "10.29.194.131",
-      "referer": "direct",
-      "userAgent": "unknown",
-      "verifiedAt": "2026-07-23T17:29:42.414Z",
-      "verifiedFrom": "dashboard",
-      "verifiedIP": "10.30.81.130",
-      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
 }
