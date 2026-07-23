@@ -29,6 +29,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.29.194.131",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "key": "1476-JJ13-G2M2-U2MG",
+      "username": "wlekkwwk",
+      "createdAt": "2026-07-23T11:45:33.598Z",
+      "expiresAt": "2026-07-23T15:45:33.598Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.30.81.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
