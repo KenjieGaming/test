@@ -1,3 +1,19 @@
 {
-  "keys": []
+  "keys": [
+    {
+      "key": "BOCC-06NZ-GFLV-S986",
+      "username": "qweqwe",
+      "createdAt": "2026-07-23T09:17:40.842Z",
+      "expiresAt": "2026-07-23T13:17:40.842Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.142.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
+    }
+  ]
 }
