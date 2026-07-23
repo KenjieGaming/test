@@ -59,6 +59,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.29.194.131",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    {
+      "key": "2A02-QSNN-I7XM-Q79H",
+      "username": "JHAY1",
+      "createdAt": "2026-07-23T21:57:19.971Z",
+      "expiresAt": "2026-07-24T01:57:19.971Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.30.81.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
