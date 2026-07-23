@@ -43,6 +43,17 @@
       "lastLogin": "2026-07-23T11:50:39.360Z",
       "ipAddress": "10.27.142.130",
       "lastKeyGen": null
+    },
+    {
+      "username": "Mineheartgwapo",
+      "password": "mineheart",
+      "createdAt": "2026-07-23T12:15:01.765Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.27.142.130",
+      "lastKeyGen": null
     }
   ]
 }
