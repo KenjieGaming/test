@@ -87,6 +87,17 @@
       "lastLogin": null,
       "ipAddress": "10.27.142.130",
       "lastKeyGen": null
+    },
+    {
+      "username": "brtpro",
+      "password": "2156634berat",
+      "createdAt": "2026-07-23T19:18:28.331Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.27.142.130",
+      "lastKeyGen": null
     }
   ]
 }
