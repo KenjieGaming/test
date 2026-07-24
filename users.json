@@ -230,6 +230,17 @@
       "lastLogin": "2026-07-24T13:59:42.778Z",
       "ipAddress": "10.27.142.130",
       "lastKeyGen": "2026-07-24T13:47:46.836Z"
+    },
+    {
+      "username": "kendomaster23",
+      "password": "randompassword",
+      "createdAt": "2026-07-24T16:48:59.563Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.30.81.130",
+      "lastKeyGen": null
     }
   ]
 }
