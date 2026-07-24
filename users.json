@@ -180,12 +180,12 @@
       "username": "658457568756",
       "password": "2156634b",
       "createdAt": "2026-07-24T09:50:39.683Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-24T09:50:45.499Z",
       "ipAddress": "10.27.142.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-24T09:50:56.032Z"
     }
   ]
 }
