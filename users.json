@@ -169,12 +169,12 @@
       "username": "Jonnil20",
       "password": "villamor213",
       "createdAt": "2026-07-24T07:23:18.824Z",
-      "keysGenerated": 1,
-      "totalKeys": 1,
+      "keysGenerated": 2,
+      "totalKeys": 2,
       "activeKeys": 1,
       "lastLogin": "2026-07-24T07:39:05.482Z",
       "ipAddress": "10.27.142.130",
-      "lastKeyGen": "2026-07-24T07:25:56.890Z"
+      "lastKeyGen": "2026-07-24T07:39:15.961Z"
     },
     {
       "username": "kadong",
