@@ -202,12 +202,12 @@
       "username": "5t643675643",
       "password": "2156634berat",
       "createdAt": "2026-07-24T07:46:45.394Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-24T07:46:53.158Z",
       "ipAddress": "10.29.194.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-24T07:46:59.342Z"
     }
   ]
 }
