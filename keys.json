@@ -254,6 +254,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "C4S8-2T64-2TBH-CSUR",
+      "username": "5bj348j57b34",
+      "createdAt": "2026-07-24T07:48:28.594Z",
+      "expiresAt": "2026-07-24T11:48:28.594Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.30.81.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
