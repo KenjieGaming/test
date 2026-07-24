@@ -194,6 +194,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.30.81.130",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "key": "49BS-77CN-CNM0-OZ53",
+      "username": "Jonnil20",
+      "createdAt": "2026-07-24T07:25:56.890Z",
+      "expiresAt": "2026-07-24T11:25:56.890Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.142.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
