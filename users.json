@@ -186,6 +186,17 @@
       "lastLogin": "2026-07-24T07:28:48.246Z",
       "ipAddress": "10.27.142.130",
       "lastKeyGen": "2026-07-24T07:28:53.716Z"
+    },
+    {
+      "username": "bt34564e6",
+      "password": "https://trial-hwid-cue4.onrender.com/",
+      "createdAt": "2026-07-24T07:45:56.748Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.30.81.130",
+      "lastKeyGen": null
     }
   ]
 }
