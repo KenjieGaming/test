@@ -114,12 +114,12 @@
       "username": "tb47h3y",
       "password": "+'^+%^%F%332",
       "createdAt": "2026-07-24T06:07:25.305Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-24T06:07:38.362Z",
       "ipAddress": "10.29.194.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-24T06:10:15.250Z"
     }
   ]
 }
