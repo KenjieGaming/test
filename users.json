@@ -81,12 +81,12 @@
       "username": "olol",
       "password": "olol",
       "createdAt": "2026-07-24T00:58:10.899Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-24T00:58:23.846Z",
       "ipAddress": "10.27.142.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-24T00:58:49.282Z"
     }
   ]
 }
