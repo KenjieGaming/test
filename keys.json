@@ -209,6 +209,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.30.81.130",
       "verifiedUserAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "key": "QWLS-QV0Z-ZMS4-94SX",
+      "username": "kadong",
+      "createdAt": "2026-07-24T07:28:53.716Z",
+      "expiresAt": "2026-07-24T11:28:53.716Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.142.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
