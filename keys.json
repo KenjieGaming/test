@@ -314,6 +314,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "IWBF-N1UE-AUVU-HZ92",
+      "username": "joms84",
+      "createdAt": "2026-07-24T08:07:23.867Z",
+      "expiresAt": "2026-07-24T12:07:23.867Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.142.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
