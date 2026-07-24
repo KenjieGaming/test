@@ -213,12 +213,12 @@
       "username": "5bj348j57b34",
       "password": "2156634b",
       "createdAt": "2026-07-24T07:48:18.097Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-24T07:48:23.591Z",
       "ipAddress": "10.30.81.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-24T07:48:28.594Z"
     }
   ]
 }
