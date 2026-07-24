@@ -147,12 +147,12 @@
       "username": "56467654d",
       "password": "T%^QBT3n",
       "createdAt": "2026-07-24T06:13:47.383Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-24T06:13:52.182Z",
       "ipAddress": "10.27.142.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-24T06:13:58.721Z"
     }
   ]
 }
