@@ -224,12 +224,12 @@
       "username": "6634a6j3ja",
       "password": "2156634b",
       "createdAt": "2026-07-24T07:52:24.281Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-24T07:52:30.663Z",
       "ipAddress": "10.29.194.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-24T07:52:36.457Z"
     }
   ]
 }
