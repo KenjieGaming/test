@@ -719,6 +719,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "A0W1-CGG9-6DJN-10YY",
+      "username": "JHAY",
+      "createdAt": "2026-07-25T16:17:19.838Z",
+      "expiresAt": "2026-07-25T20:17:19.838Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.29.194.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
