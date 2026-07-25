@@ -285,6 +285,17 @@
       "lastLogin": "2026-07-25T04:05:17.892Z",
       "ipAddress": "10.30.81.130",
       "lastKeyGen": "2026-07-25T04:05:37.130Z"
+    },
+    {
+      "username": "denzxoo",
+      "password": "09270753166",
+      "createdAt": "2026-07-25T05:26:44.093Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.30.81.130",
+      "lastKeyGen": null
     }
   ]
 }
