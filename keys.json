@@ -704,6 +704,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "7JHZ-R8RW-V1O8-A0WS",
+      "username": "kendomaster23",
+      "createdAt": "2026-07-25T13:37:07.116Z",
+      "expiresAt": "2026-07-25T17:37:07.116Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.142.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
