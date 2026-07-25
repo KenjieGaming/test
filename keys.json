@@ -76,21 +76,6 @@
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     },
     {
-      "key": "B67M-DJOH-Z89F-ITYV",
-      "username": "JHAY",
-      "createdAt": "2026-07-23T23:09:11.708Z",
-      "expiresAt": "2026-07-24T03:09:11.708Z",
-      "status": "expired",
-      "type": "1day",
-      "ip": "10.29.194.131",
-      "referer": "direct",
-      "userAgent": "unknown",
-      "verifiedAt": "2026-07-23T23:09:54.426Z",
-      "verifiedFrom": "dashboard",
-      "verifiedIP": "10.27.142.130",
-      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-    },
-    {
       "key": "SMP7-BLKA-S9ZD-QXNT",
       "username": "joms84",
       "createdAt": "2026-07-24T00:20:12.079Z",
