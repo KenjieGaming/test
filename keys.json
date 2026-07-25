@@ -635,15 +635,15 @@
       "username": "JHAY",
       "createdAt": "2026-07-25T08:39:50.442Z",
       "expiresAt": "2026-07-25T12:39:50.442Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.29.194.131",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-07-25T08:40:45.511Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.29.194.131",
+      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
 }
