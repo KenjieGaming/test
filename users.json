@@ -345,12 +345,12 @@
       "username": "6346456747",
       "password": "2156634b",
       "createdAt": "2026-07-25T16:25:01.838Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-25T16:25:11.116Z",
       "ipAddress": "10.30.81.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-25T16:25:18.570Z"
     }
   ]
 }
