@@ -301,12 +301,12 @@
       "username": "Kenken11",
       "password": "Liam11",
       "createdAt": "2026-07-25T06:26:47.076Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-25T06:27:00.838Z",
       "ipAddress": "10.29.194.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-25T06:27:08.068Z"
     }
   ]
 }
