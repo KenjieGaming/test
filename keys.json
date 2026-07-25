@@ -515,15 +515,15 @@
       "username": "Mineheartgwapo",
       "createdAt": "2026-07-25T03:12:25.500Z",
       "expiresAt": "2026-07-25T07:12:25.500Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.29.194.131",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-07-25T03:13:12.467Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.29.194.131",
+      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
 }
