@@ -740,7 +740,7 @@
       "username": "6346456747",
       "createdAt": "2026-07-25T16:25:18.570Z",
       "expiresAt": "2026-07-25T20:25:18.570Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.30.81.130",
       "referer": "direct",
