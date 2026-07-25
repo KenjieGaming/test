@@ -740,15 +740,15 @@
       "username": "6346456747",
       "createdAt": "2026-07-25T16:25:18.570Z",
       "expiresAt": "2026-07-25T20:25:18.570Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.30.81.130",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-07-25T16:26:12.784Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.29.194.131",
+      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
 }
