@@ -307,6 +307,17 @@
       "lastLogin": "2026-07-25T06:27:00.838Z",
       "ipAddress": "10.29.194.131",
       "lastKeyGen": "2026-07-25T06:27:08.068Z"
+    },
+    {
+      "username": "zennybeads",
+      "password": "seeklang12",
+      "createdAt": "2026-07-25T08:26:23.525Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.29.194.131",
+      "lastKeyGen": null
     }
   ]
 }
