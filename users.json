@@ -334,12 +334,12 @@
       "username": "56%^YW",
       "password": "2156634b",
       "createdAt": "2026-07-25T10:52:47.476Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-25T10:52:53.343Z",
       "ipAddress": "10.27.142.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-25T10:52:59.012Z"
     }
   ]
 }
