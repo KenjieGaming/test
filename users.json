@@ -257,12 +257,12 @@
       "username": "LALA",
       "password": "LALA",
       "createdAt": "2026-07-25T01:50:43.554Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-25T01:50:48.150Z",
       "ipAddress": "10.29.194.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-25T01:52:00.360Z"
     }
   ]
 }
