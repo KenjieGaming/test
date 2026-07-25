@@ -665,7 +665,7 @@
       "username": "56%^YW",
       "createdAt": "2026-07-25T10:52:59.012Z",
       "expiresAt": "2026-07-25T14:52:59.012Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.27.142.130",
       "referer": "direct",
