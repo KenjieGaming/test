@@ -224,12 +224,12 @@
       "username": "sarnel123",
       "password": "Sarnel12345",
       "createdAt": "2026-07-24T13:47:28.867Z",
-      "keysGenerated": 1,
-      "totalKeys": 1,
+      "keysGenerated": 2,
+      "totalKeys": 2,
       "activeKeys": 1,
       "lastLogin": "2026-07-25T09:22:36.111Z",
       "ipAddress": "10.29.194.131",
-      "lastKeyGen": "2026-07-24T13:47:46.836Z"
+      "lastKeyGen": "2026-07-25T09:24:36.019Z"
     },
     {
       "username": "kendomaster23",
