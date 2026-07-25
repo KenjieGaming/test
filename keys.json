@@ -725,7 +725,7 @@
       "username": "JHAY",
       "createdAt": "2026-07-25T16:17:19.838Z",
       "expiresAt": "2026-07-25T20:17:19.838Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.29.194.131",
       "referer": "direct",
