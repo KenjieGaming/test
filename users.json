@@ -252,6 +252,17 @@
       "lastLogin": "2026-07-24T16:59:19.317Z",
       "ipAddress": "10.27.142.130",
       "lastKeyGen": "2026-07-24T16:59:33.328Z"
+    },
+    {
+      "username": "LALA",
+      "password": "LALA",
+      "createdAt": "2026-07-25T01:50:43.554Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.29.194.131",
+      "lastKeyGen": null
     }
   ]
 }
