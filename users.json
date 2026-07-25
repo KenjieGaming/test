@@ -312,12 +312,12 @@
       "username": "zennybeads",
       "password": "seeklang12",
       "createdAt": "2026-07-25T08:26:23.525Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-25T08:26:32.652Z",
       "ipAddress": "10.27.142.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-25T08:38:08.942Z"
     }
   ]
 }
