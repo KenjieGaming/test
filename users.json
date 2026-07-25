@@ -290,12 +290,12 @@
       "username": "denzxoo",
       "password": "09270753166",
       "createdAt": "2026-07-25T05:26:44.093Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-25T05:26:51.993Z",
       "ipAddress": "10.27.142.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-25T05:30:57.642Z"
     }
   ]
 }
