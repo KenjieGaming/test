@@ -1034,6 +1034,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.29.194.131",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    {
+      "key": "AZJ9-9BCG-T5QU-E6I1",
+      "username": "jemar09",
+      "createdAt": "2026-07-26T12:39:40.362Z",
+      "expiresAt": "2026-07-26T16:39:40.362Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.29.194.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
