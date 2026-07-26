@@ -433,12 +433,12 @@
       "username": "cole111",
       "password": "cole111",
       "createdAt": "2026-07-26T12:06:08.219Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-26T12:06:26.201Z",
       "ipAddress": "10.30.81.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-26T12:06:40.904Z"
     }
   ]
 }
