@@ -477,12 +477,12 @@
       "username": "5346457",
       "password": "2156634b",
       "createdAt": "2026-07-26T15:18:36.621Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-26T15:18:41.385Z",
       "ipAddress": "10.29.194.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-26T15:18:48.727Z"
     }
   ]
 }
