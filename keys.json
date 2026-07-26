@@ -890,7 +890,7 @@
       "username": "JHAY",
       "createdAt": "2026-07-26T08:46:37.530Z",
       "expiresAt": "2026-07-26T12:46:37.530Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.27.142.130",
       "referer": "direct",
