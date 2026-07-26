@@ -367,12 +367,12 @@
       "username": "t85484r5546",
       "password": "2156634b",
       "createdAt": "2026-07-26T07:12:24.649Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-26T07:12:31.026Z",
       "ipAddress": "10.29.194.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-26T07:12:54.969Z"
     }
   ]
 }
