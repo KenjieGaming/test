@@ -770,7 +770,7 @@
       "username": "JHAY",
       "createdAt": "2026-07-26T04:59:10.428Z",
       "expiresAt": "2026-07-26T08:59:10.428Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.27.142.130",
       "referer": "direct",
