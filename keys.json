@@ -779,6 +779,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.27.142.130",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "key": "QYMA-1694-OM4G-L3MP",
+      "username": "joms84",
+      "createdAt": "2026-07-26T00:02:03.029Z",
+      "expiresAt": "2026-07-26T04:02:03.029Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.142.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
