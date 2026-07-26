@@ -265,17 +265,6 @@
       "lastKeyGen": "2026-07-25T01:52:00.360Z"
     },
     {
-      "username": "09632609904",
-      "password": "09632609904",
-      "createdAt": "2026-07-25T04:04:41.505Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
-      "activeKeys": 0,
-      "lastLogin": null,
-      "ipAddress": "10.30.81.130",
-      "lastKeyGen": null
-    },
-    {
       "username": "gogpdot",
       "password": "gogpdot",
       "createdAt": "2026-07-25T04:05:06.131Z",
