@@ -373,6 +373,17 @@
       "lastLogin": "2026-07-26T07:12:31.026Z",
       "ipAddress": "10.29.194.131",
       "lastKeyGen": "2026-07-26T07:12:54.969Z"
+    },
+    {
+      "username": "nel",
+      "password": "nel123",
+      "createdAt": "2026-07-26T07:15:43.312Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.29.194.131",
+      "lastKeyGen": null
     }
   ]
 }
