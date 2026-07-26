@@ -965,15 +965,15 @@
       "username": "25535345",
       "createdAt": "2026-07-26T12:05:47.707Z",
       "expiresAt": "2026-07-26T16:05:47.707Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.29.194.131",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-07-26T12:07:49.382Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.29.194.131",
+      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     },
     {
       "key": "H4C7-U8D0-VJ0H-57L9",
