@@ -905,7 +905,7 @@
       "username": "Kentliam12",
       "createdAt": "2026-07-26T12:01:30.415Z",
       "expiresAt": "2026-07-26T16:01:30.415Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.27.142.130",
       "referer": "direct",
