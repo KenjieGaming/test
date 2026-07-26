@@ -400,12 +400,12 @@
       "username": "Kentliam12",
       "password": "Kenken",
       "createdAt": "2026-07-26T11:56:02.853Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-26T11:56:11.754Z",
       "ipAddress": "10.27.142.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-26T12:01:30.415Z"
     }
   ]
 }
