@@ -995,7 +995,7 @@
       "username": "archer123",
       "createdAt": "2026-07-26T12:30:47.521Z",
       "expiresAt": "2026-07-26T16:30:47.521Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.27.142.130",
       "referer": "direct",
