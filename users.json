@@ -450,6 +450,17 @@
       "lastLogin": "2026-07-26T12:10:41.440Z",
       "ipAddress": "10.27.142.130",
       "lastKeyGen": "2026-07-26T12:10:48.261Z"
+    },
+    {
+      "username": "jemar",
+      "password": "jemar21",
+      "createdAt": "2026-07-26T12:37:28.797Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.29.194.131",
+      "lastKeyGen": null
     }
   ]
 }
