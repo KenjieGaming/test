@@ -411,12 +411,12 @@
       "username": "yun",
       "password": "yun123",
       "createdAt": "2026-07-26T12:05:16.959Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-26T12:05:25.008Z",
       "ipAddress": "10.29.194.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-26T12:05:34.098Z"
     },
     {
       "username": "25535345",
