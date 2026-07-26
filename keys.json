@@ -1055,7 +1055,7 @@
       "username": "5346457",
       "createdAt": "2026-07-26T15:18:48.727Z",
       "expiresAt": "2026-07-26T19:18:48.727Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.29.194.131",
       "referer": "direct",
