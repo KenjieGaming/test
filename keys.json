@@ -869,6 +869,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.30.81.130",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "key": "NPE0-XK6U-Z0S7-Y598",
+      "username": "zennybeads",
+      "createdAt": "2026-07-26T08:34:34.312Z",
+      "expiresAt": "2026-07-26T12:34:34.312Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.142.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
