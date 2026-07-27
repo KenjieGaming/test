@@ -461,6 +461,17 @@
       "lastLogin": "2026-07-27T02:34:40.212Z",
       "ipAddress": "10.29.194.131",
       "lastKeyGen": "2026-07-27T02:34:47.471Z"
+    },
+    {
+      "username": "juros",
+      "password": "resaba",
+      "createdAt": "2026-07-27T08:42:11.466Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.27.142.130",
+      "lastKeyGen": null
     }
   ]
 }
