@@ -477,12 +477,12 @@
       "username": "ayaw koll",
       "password": "kolkol",
       "createdAt": "2026-07-27T08:42:40.794Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-27T08:42:57.193Z",
       "ipAddress": "10.27.142.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-27T08:43:06.908Z"
     }
   ]
 }
