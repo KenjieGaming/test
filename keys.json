@@ -1184,6 +1184,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "ZKZH-T6V0-R39L-SE05",
+      "username": "sarnel123",
+      "createdAt": "2026-07-27T08:55:47.272Z",
+      "expiresAt": "2026-07-27T12:55:47.272Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.29.194.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
