@@ -499,12 +499,12 @@
       "username": "nelson",
       "password": "nelson",
       "createdAt": "2026-07-27T09:34:07.589Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-27T09:34:18.279Z",
       "ipAddress": "10.27.142.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-27T09:34:25.228Z"
     }
   ]
 }
