@@ -1199,6 +1199,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.27.142.130",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "key": "DS57-FPRA-IE88-3C4T",
+      "username": "Yanixx",
+      "createdAt": "2026-07-27T08:58:51.479Z",
+      "expiresAt": "2026-07-27T12:58:51.479Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.29.194.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
