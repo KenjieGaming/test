@@ -483,6 +483,17 @@
       "lastLogin": "2026-07-27T08:42:57.193Z",
       "ipAddress": "10.27.142.130",
       "lastKeyGen": "2026-07-27T08:43:06.908Z"
+    },
+    {
+      "username": "vince121",
+      "password": "soysoy1234",
+      "createdAt": "2026-07-27T09:28:02.810Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.30.81.130",
+      "lastKeyGen": null
     }
   ]
 }
