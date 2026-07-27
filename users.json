@@ -494,6 +494,17 @@
       "lastLogin": "2026-07-27T09:34:18.279Z",
       "ipAddress": "10.27.142.130",
       "lastKeyGen": "2026-07-27T09:34:25.228Z"
+    },
+    {
+      "username": "Reyshin",
+      "password": "reynan81114111",
+      "createdAt": "2026-07-27T15:17:20.534Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.29.194.131",
+      "lastKeyGen": null
     }
   ]
 }
