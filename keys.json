@@ -1235,7 +1235,7 @@
       "username": "nelson",
       "createdAt": "2026-07-27T09:34:25.228Z",
       "expiresAt": "2026-07-27T13:34:25.228Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.27.142.130",
       "referer": "direct",
