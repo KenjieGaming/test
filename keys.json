@@ -1265,15 +1265,15 @@
       "username": "joms84",
       "createdAt": "2026-07-27T11:38:08.576Z",
       "expiresAt": "2026-07-27T15:38:08.576Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.30.81.130",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-07-27T11:38:43.173Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.30.81.130",
+      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
 }
