@@ -455,12 +455,12 @@
       "username": "ross",
       "password": "ross",
       "createdAt": "2026-07-27T02:34:34.511Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-27T02:34:40.212Z",
       "ipAddress": "10.29.194.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-27T02:34:47.471Z"
     }
   ]
 }
