@@ -1295,15 +1295,15 @@
       "username": "jin",
       "createdAt": "2026-07-28T05:19:47.765Z",
       "expiresAt": "2026-07-28T09:19:47.765Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.27.71.130",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-07-28T05:20:55.731Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.30.132.1",
+      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"
     }
   ]
 }
