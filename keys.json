@@ -1439,6 +1439,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.26.185.129",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "key": "HUG2-1JG1-9X2V-T27D",
+      "username": "Mineheartgwapo",
+      "createdAt": "2026-07-28T10:17:16.382Z",
+      "expiresAt": "2026-07-28T14:17:16.382Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.71.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
