@@ -1385,7 +1385,7 @@
       "username": "lem",
       "createdAt": "2026-07-28T09:42:09.825Z",
       "expiresAt": "2026-07-28T13:42:09.825Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.26.185.129",
       "referer": "direct",
