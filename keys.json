@@ -1304,6 +1304,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.30.132.1",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"
+    },
+    {
+      "key": "08OK-6M8C-UL5I-LUCA",
+      "username": "daniel",
+      "createdAt": "2026-07-28T05:31:49.226Z",
+      "expiresAt": "2026-07-28T09:31:49.226Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.71.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
