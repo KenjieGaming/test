@@ -1111,21 +1111,6 @@
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
     },
     {
-      "key": "G2ZJ-PCBH-IKUI-M3DB",
-      "username": "AetherWare",
-      "createdAt": "2026-07-27T03:39:28.342Z",
-      "expiresAt": "2026-07-27T07:39:28.342Z",
-      "status": "expired",
-      "type": "1day",
-      "ip": "10.27.142.130",
-      "referer": "direct",
-      "userAgent": "unknown",
-      "verifiedAt": "2026-07-27T03:43:01.990Z",
-      "verifiedFrom": "dashboard",
-      "verifiedIP": "10.30.81.130",
-      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
-    },
-    {
       "key": "I6ER-F25I-TJTX-VMLQ",
       "username": "joms84",
       "createdAt": "2026-07-27T06:11:44.182Z",
