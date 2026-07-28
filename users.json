@@ -496,17 +496,6 @@
       "lastKeyGen": "2026-07-27T09:34:25.228Z"
     },
     {
-      "username": "Reynanronaldo",
-      "password": "123456789",
-      "createdAt": "2026-07-27T15:19:13.878Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
-      "activeKeys": 0,
-      "lastLogin": null,
-      "ipAddress": "10.29.194.131",
-      "lastKeyGen": null
-    },
-    {
       "username": "jin",
       "password": "jin123",
       "createdAt": "2026-07-28T05:19:09.094Z",
