@@ -565,12 +565,12 @@
       "username": "jess",
       "password": "jess",
       "createdAt": "2026-07-28T06:34:55.880Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-28T06:35:01.294Z",
       "ipAddress": "10.30.132.1",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-28T06:35:08.134Z"
     }
   ]
 }
