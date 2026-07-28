@@ -1355,7 +1355,7 @@
       "username": "JHAY1",
       "createdAt": "2026-07-28T08:00:47.986Z",
       "expiresAt": "2026-07-28T12:00:47.986Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.27.71.130",
       "referer": "direct",
