@@ -1364,6 +1364,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.27.71.130",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+    },
+    {
+      "key": "XEHZ-DNPP-IGTX-C1X2",
+      "username": "JHAY1",
+      "createdAt": "2026-07-28T08:00:47.986Z",
+      "expiresAt": "2026-07-28T12:00:47.986Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.71.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
