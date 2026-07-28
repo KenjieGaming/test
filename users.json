@@ -554,12 +554,12 @@
       "username": "daniel",
       "password": "daniel",
       "createdAt": "2026-07-28T05:30:41.372Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-28T05:30:54.666Z",
       "ipAddress": "10.26.185.129",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-28T05:31:49.226Z"
     }
   ]
 }
