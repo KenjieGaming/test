@@ -444,12 +444,12 @@
       "username": "AetherWare",
       "password": "gwapoko143",
       "createdAt": "2026-07-27T01:48:08.896Z",
-      "keysGenerated": 2,
-      "totalKeys": 2,
+      "keysGenerated": 3,
+      "totalKeys": 3,
       "activeKeys": 2,
       "lastLogin": "2026-07-28T16:08:01.781Z",
       "ipAddress": "10.30.132.1",
-      "lastKeyGen": "2026-07-28T12:01:29.931Z"
+      "lastKeyGen": "2026-07-28T16:08:10.631Z"
     },
     {
       "username": "ross",
