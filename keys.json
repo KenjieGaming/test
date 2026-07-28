@@ -1430,7 +1430,7 @@
       "username": "daniel",
       "createdAt": "2026-07-28T11:15:25.977Z",
       "expiresAt": "2026-07-28T15:15:25.977Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.26.185.129",
       "referer": "direct",
