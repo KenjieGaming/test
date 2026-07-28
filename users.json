@@ -510,12 +510,12 @@
       "username": "daniel",
       "password": "daniel",
       "createdAt": "2026-07-28T05:30:41.372Z",
-      "keysGenerated": 1,
-      "totalKeys": 1,
+      "keysGenerated": 2,
+      "totalKeys": 2,
       "activeKeys": 1,
       "lastLogin": "2026-07-28T11:15:12.344Z",
       "ipAddress": "10.27.71.130",
-      "lastKeyGen": "2026-07-28T05:31:49.226Z"
+      "lastKeyGen": "2026-07-28T11:15:25.977Z"
     },
     {
       "username": "jess",
