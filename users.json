@@ -477,12 +477,12 @@
       "username": "vince121",
       "password": "soysoy1234",
       "createdAt": "2026-07-27T09:28:02.810Z",
-      "keysGenerated": 1,
-      "totalKeys": 1,
+      "keysGenerated": 2,
+      "totalKeys": 2,
       "activeKeys": 1,
       "lastLogin": "2026-07-28T05:32:39.946Z",
       "ipAddress": "10.30.132.1",
-      "lastKeyGen": "2026-07-27T09:29:46.766Z"
+      "lastKeyGen": "2026-07-28T05:37:27.513Z"
     },
     {
       "username": "nelson",
