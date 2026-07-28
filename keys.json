@@ -1454,6 +1454,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.27.71.130",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    {
+      "key": "LXQT-66PE-TCO6-CPB6",
+      "username": "daniel",
+      "createdAt": "2026-07-28T11:15:25.977Z",
+      "expiresAt": "2026-07-28T15:15:25.977Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.185.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
