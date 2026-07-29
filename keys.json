@@ -1559,6 +1559,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.27.71.130",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"
+    },
+    {
+      "key": "O1BT-FEBL-DPG7-7THN",
+      "username": "Yanixx",
+      "createdAt": "2026-07-29T09:23:37.074Z",
+      "expiresAt": "2026-07-29T13:23:37.074Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.185.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
