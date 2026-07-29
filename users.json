@@ -609,12 +609,12 @@
       "username": "choseyzen",
       "password": "123456789",
       "createdAt": "2026-07-29T13:27:27.743Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-29T13:29:13.209Z",
       "ipAddress": "10.30.132.1",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-29T13:29:39.921Z"
     }
   ]
 }
