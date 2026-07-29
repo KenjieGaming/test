@@ -1574,6 +1574,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.27.71.130",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    {
+      "key": "KSYT-3OM6-C1PM-IO24",
+      "username": "vince121",
+      "createdAt": "2026-07-29T09:37:44.579Z",
+      "expiresAt": "2026-07-29T13:37:44.579Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.71.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
