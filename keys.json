@@ -1619,6 +1619,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.26.185.129",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+    },
+    {
+      "key": "WYDE-7RTZ-S6DU-4YM8",
+      "username": "choseyzen",
+      "createdAt": "2026-07-29T13:29:39.921Z",
+      "expiresAt": "2026-07-29T17:29:39.921Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.30.132.1",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
