@@ -587,12 +587,12 @@
       "username": "ogdol1234",
       "password": "ogdol1234",
       "createdAt": "2026-07-29T08:00:55.489Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-29T08:04:04.816Z",
       "ipAddress": "10.26.185.129",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-29T08:04:11.810Z"
     }
   ]
 }
