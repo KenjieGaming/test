@@ -1544,6 +1544,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.26.185.129",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "key": "TA8S-B0IJ-KGTL-0A8Z",
+      "username": "ako11",
+      "createdAt": "2026-07-29T08:39:41.576Z",
+      "expiresAt": "2026-07-29T12:39:41.576Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.185.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
