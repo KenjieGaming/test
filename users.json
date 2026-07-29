@@ -598,12 +598,12 @@
       "username": "ako11",
       "password": "ako11",
       "createdAt": "2026-07-29T08:39:10.823Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-29T08:39:30.476Z",
       "ipAddress": "10.26.185.129",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-29T08:39:41.576Z"
     }
   ]
 }
