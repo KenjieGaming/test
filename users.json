@@ -604,6 +604,17 @@
       "lastLogin": "2026-07-29T08:39:30.476Z",
       "ipAddress": "10.26.185.129",
       "lastKeyGen": "2026-07-29T08:39:41.576Z"
+    },
+    {
+      "username": "choseyzen",
+      "password": "123456789",
+      "createdAt": "2026-07-29T13:27:27.743Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.27.71.130",
+      "lastKeyGen": null
     }
   ]
 }
