@@ -1456,21 +1456,6 @@
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
     },
     {
-      "key": "I6SU-7OSL-S3QS-3U8D",
-      "username": "AetherWare",
-      "createdAt": "2026-07-28T16:08:10.631Z",
-      "expiresAt": "2026-07-28T20:08:10.631Z",
-      "status": "expired",
-      "type": "1day",
-      "ip": "10.30.132.1",
-      "referer": "direct",
-      "userAgent": "unknown",
-      "verifiedAt": "2026-07-28T16:08:25.471Z",
-      "verifiedFrom": "dashboard",
-      "verifiedIP": "10.27.71.130",
-      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
-    },
-    {
       "key": "YL9F-I6QA-GYD0-2HD2",
       "username": "JHAY1",
       "createdAt": "2026-07-29T02:48:16.283Z",
