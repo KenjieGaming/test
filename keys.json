@@ -1490,15 +1490,15 @@
       "username": "all",
       "createdAt": "2026-07-29T04:22:50.794Z",
       "expiresAt": "2026-07-29T08:22:50.794Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.27.71.130",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-07-29T04:24:42.451Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.30.132.1",
+      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
     }
   ]
 }
