@@ -1625,7 +1625,7 @@
       "username": "choseyzen",
       "createdAt": "2026-07-29T13:29:39.921Z",
       "expiresAt": "2026-07-29T17:29:39.921Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.30.132.1",
       "referer": "direct",
