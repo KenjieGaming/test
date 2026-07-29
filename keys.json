@@ -1589,6 +1589,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.27.71.130",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+    },
+    {
+      "key": "FGEZ-B8QM-4SKY-BO9D",
+      "username": "daniel",
+      "createdAt": "2026-07-29T09:45:06.418Z",
+      "expiresAt": "2026-07-29T13:45:06.418Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.71.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
