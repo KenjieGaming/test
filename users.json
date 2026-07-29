@@ -571,6 +571,17 @@
       "lastLogin": null,
       "ipAddress": "10.26.185.129",
       "lastKeyGen": null
+    },
+    {
+      "username": "joshuagarcia_291032",
+      "password": "joshuagarcia_291032",
+      "createdAt": "2026-07-29T07:18:30.301Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.27.71.130",
+      "lastKeyGen": null
     }
   ]
 }
