@@ -1499,6 +1499,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.30.132.1",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+    },
+    {
+      "key": "UVX7-J3F6-FCQY-YN3J",
+      "username": "joshuagarcia_291032",
+      "createdAt": "2026-07-29T07:19:33.273Z",
+      "expiresAt": "2026-07-29T11:19:33.273Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.71.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
