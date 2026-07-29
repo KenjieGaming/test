@@ -576,12 +576,12 @@
       "username": "joshuagarcia_291032",
       "password": "joshuagarcia_291032",
       "createdAt": "2026-07-29T07:18:30.301Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-29T07:18:33.963Z",
       "ipAddress": "10.27.71.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-29T07:19:33.273Z"
     }
   ]
 }
