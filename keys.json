@@ -1610,7 +1610,7 @@
       "username": "daniel",
       "createdAt": "2026-07-29T11:30:13.980Z",
       "expiresAt": "2026-07-29T15:30:13.980Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.30.132.1",
       "referer": "direct",
