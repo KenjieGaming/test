@@ -1640,7 +1640,7 @@
       "username": "boy11",
       "createdAt": "2026-07-30T04:33:34.054Z",
       "expiresAt": "2026-07-30T08:33:34.054Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.30.132.1",
       "referer": "direct",
