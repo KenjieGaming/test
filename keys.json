@@ -1670,7 +1670,7 @@
       "username": "daniel",
       "createdAt": "2026-07-30T05:43:44.993Z",
       "expiresAt": "2026-07-30T09:43:44.993Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.26.185.129",
       "referer": "direct",
