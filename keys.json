@@ -1634,6 +1634,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.30.132.1",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "key": "ML86-CUDN-QRXZ-1G2H",
+      "username": "boy11",
+      "createdAt": "2026-07-30T04:33:34.054Z",
+      "expiresAt": "2026-07-30T08:33:34.054Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.30.132.1",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
