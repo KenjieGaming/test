@@ -1685,15 +1685,15 @@
       "username": "sarnel123",
       "createdAt": "2026-07-30T08:51:20.248Z",
       "expiresAt": "2026-07-30T12:51:20.248Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.26.185.129",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-07-30T08:52:01.112Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.27.71.130",
+      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
 }
