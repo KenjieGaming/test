@@ -1730,15 +1730,15 @@
       "username": "vince121",
       "createdAt": "2026-07-30T12:48:46.001Z",
       "expiresAt": "2026-07-30T16:48:46.001Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.30.132.1",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-07-30T12:48:58.228Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.27.71.130",
+      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
     }
   ]
 }
