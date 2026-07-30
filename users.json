@@ -626,6 +626,17 @@
       "lastLogin": "2026-07-30T04:33:19.959Z",
       "ipAddress": "10.30.132.1",
       "lastKeyGen": "2026-07-30T04:33:34.054Z"
+    },
+    {
+      "username": "johnnino",
+      "password": "gibayajohn",
+      "createdAt": "2026-07-30T05:02:42.826Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.26.185.129",
+      "lastKeyGen": null
     }
   ]
 }
