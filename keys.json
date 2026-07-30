@@ -1679,6 +1679,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.26.185.129",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+    },
+    {
+      "key": "Z5FO-954R-4JTH-3HMC",
+      "username": "sarnel123",
+      "createdAt": "2026-07-30T08:51:20.248Z",
+      "expiresAt": "2026-07-30T12:51:20.248Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.185.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
