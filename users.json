@@ -620,12 +620,12 @@
       "username": "boy11",
       "password": "boy11",
       "createdAt": "2026-07-30T04:33:13.571Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-30T04:33:19.959Z",
       "ipAddress": "10.30.132.1",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-30T04:33:34.054Z"
     }
   ]
 }
