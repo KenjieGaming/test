@@ -1685,7 +1685,7 @@
       "username": "sarnel123",
       "createdAt": "2026-07-30T08:51:20.248Z",
       "expiresAt": "2026-07-30T12:51:20.248Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.26.185.129",
       "referer": "direct",
