@@ -637,6 +637,17 @@
       "lastLogin": "2026-07-30T05:02:54.099Z",
       "ipAddress": "10.30.132.1",
       "lastKeyGen": "2026-07-30T05:03:11.438Z"
+    },
+    {
+      "username": "jaymonauxtero9",
+      "password": "jaymonauxtero123",
+      "createdAt": "2026-07-31T11:07:44.689Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.26.192.130",
+      "lastKeyGen": null
     }
   ]
 }
