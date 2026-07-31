@@ -1745,7 +1745,7 @@
       "username": "AetherWare",
       "createdAt": "2026-07-31T05:34:45.327Z",
       "expiresAt": "2026-07-31T09:34:45.327Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.26.103.129",
       "referer": "direct",
