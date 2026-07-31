@@ -1790,15 +1790,15 @@
       "username": "jdjdkdndndnn",
       "createdAt": "2026-07-31T13:44:02.635Z",
       "expiresAt": "2026-07-31T17:44:02.635Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.26.103.129",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-07-31T13:46:01.054Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.27.111.131",
+      "verifiedUserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5.2 Mobile/15E148 Safari/604.1"
     }
   ]
 }
