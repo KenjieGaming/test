@@ -675,12 +675,12 @@
       "username": "MALDEX",
       "password": "123456",
       "createdAt": "2026-07-31T12:32:04.876Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-31T12:32:17.580Z",
       "ipAddress": "10.26.103.129",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-31T12:32:25.243Z"
     }
   ]
 }
