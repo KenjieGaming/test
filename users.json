@@ -686,12 +686,12 @@
       "username": "jdjdkdndndnn",
       "password": "mathbox20",
       "createdAt": "2026-07-31T13:43:33.987Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-31T13:43:42.302Z",
       "ipAddress": "10.26.103.129",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-31T13:44:02.635Z"
     }
   ]
 }
