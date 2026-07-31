@@ -1775,15 +1775,15 @@
       "username": "MALDEX",
       "createdAt": "2026-07-31T12:32:25.243Z",
       "expiresAt": "2026-07-31T16:32:25.243Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.26.192.130",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-07-31T12:33:18.945Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.27.111.131",
+      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
 }
