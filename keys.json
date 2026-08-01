@@ -1910,15 +1910,15 @@
       "username": "denzxoo",
       "createdAt": "2026-08-01T11:12:39.636Z",
       "expiresAt": "2026-08-01T15:12:39.636Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.27.111.131",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-08-01T11:59:06.282Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.26.103.129",
+      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     },
     {
       "key": "85WB-J9HE-E3EV-VJZT",
