@@ -1533,12 +1533,12 @@
       "username": "un73gztgjx7",
       "password": "kLIy5ispL",
       "createdAt": "2026-08-01T12:46:19.841Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T12:46:22.490Z",
       "ipAddress": "10.26.192.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T12:46:26.392Z"
     }
   ]
 }
