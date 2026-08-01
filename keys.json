@@ -2540,15 +2540,15 @@
       "username": "ubvlh8huyhd",
       "createdAt": "2026-08-01T15:56:36.926Z",
       "expiresAt": "2026-08-01T19:56:36.926Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.26.192.130",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-08-01T15:56:42.440Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.27.111.131",
+      "verifiedUserAgent": "python-requests/2.34.2"
     }
   ]
 }
