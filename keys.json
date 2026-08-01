@@ -2639,6 +2639,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "MED5-M4W4-ZUKK-MYC7",
+      "username": "up1c7c5x80y",
+      "createdAt": "2026-08-01T15:59:27.065Z",
+      "expiresAt": "2026-08-01T19:59:27.065Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.192.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
