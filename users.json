@@ -1759,6 +1759,17 @@
       "lastLogin": null,
       "ipAddress": "10.26.192.130",
       "lastKeyGen": null
+    },
+    {
+      "username": "uuklvhp0moi",
+      "password": "kkQbVkwCj",
+      "createdAt": "2026-08-01T15:56:28.753Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.26.192.130",
+      "lastKeyGen": null
     }
   ]
 }
