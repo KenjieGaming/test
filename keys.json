@@ -2084,6 +2084,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "J6YP-Q2CX-VR0Z-7L1X",
+      "username": "u79me27wh6u",
+      "createdAt": "2026-08-01T12:15:35.149Z",
+      "expiresAt": "2026-08-01T16:15:35.149Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.103.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
