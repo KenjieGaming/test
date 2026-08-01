@@ -2116,12 +2116,12 @@
       "username": "utpk8p6t6e3",
       "password": "kRA2UFpxJ",
       "createdAt": "2026-08-01T16:42:10.945Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T16:42:13.146Z",
       "ipAddress": "10.26.192.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T16:42:15.517Z"
     }
   ]
 }
