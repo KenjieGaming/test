@@ -1957,6 +1957,17 @@
       "lastLogin": "2026-08-01T16:04:56.793Z",
       "ipAddress": "10.26.103.129",
       "lastKeyGen": "2026-08-01T16:05:00.828Z"
+    },
+    {
+      "username": "ue9wzeeutps",
+      "password": "k1p37ry0h",
+      "createdAt": "2026-08-01T16:05:15.617Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.26.192.130",
+      "lastKeyGen": null
     }
   ]
 }
