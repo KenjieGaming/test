@@ -928,12 +928,12 @@
       "username": "umwr8apmpuz",
       "password": "kjpnKGyOK",
       "createdAt": "2026-08-01T12:19:27.232Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T12:19:30.391Z",
       "ipAddress": "10.26.192.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T12:19:33.089Z"
     }
   ]
 }
