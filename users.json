@@ -2061,12 +2061,12 @@
       "username": "uvujfxflmof",
       "password": "kL77YY6VC",
       "createdAt": "2026-08-01T16:08:26.788Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T16:08:29.909Z",
       "ipAddress": "10.26.192.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T16:08:33.433Z"
     }
   ]
 }
