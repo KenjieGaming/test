@@ -2660,15 +2660,15 @@
       "username": "uzpe429be7x",
       "createdAt": "2026-08-01T16:00:06.105Z",
       "expiresAt": "2026-08-01T20:00:06.105Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.27.111.131",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-08-01T16:00:10.782Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.26.192.130",
+      "verifiedUserAgent": "python-requests/2.34.2"
     }
   ]
 }
