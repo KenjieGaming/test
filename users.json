@@ -1484,6 +1484,17 @@
       "lastLogin": null,
       "ipAddress": "10.27.111.131",
       "lastKeyGen": null
+    },
+    {
+      "username": "u5q26fjgwyy",
+      "password": "kAqZD9ph7",
+      "createdAt": "2026-08-01T12:46:13.016Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.27.111.131",
+      "lastKeyGen": null
     }
   ]
 }
