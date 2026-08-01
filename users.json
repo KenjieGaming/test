@@ -1775,12 +1775,12 @@
       "username": "ubvlh8huyhd",
       "password": "kRZQhx7Wh",
       "createdAt": "2026-08-01T15:56:30.767Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T15:56:33.468Z",
       "ipAddress": "10.27.111.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T15:56:36.926Z"
     }
   ]
 }
