@@ -2729,6 +2729,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "Q78J-0O6J-C4DN-KUAL",
+      "username": "ukfdjiqy23z",
+      "createdAt": "2026-08-01T16:05:53.673Z",
+      "expiresAt": "2026-08-01T20:05:53.673Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.192.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
