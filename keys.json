@@ -2750,15 +2750,15 @@
       "username": "uilhnjzg6ht",
       "createdAt": "2026-08-01T16:06:30.191Z",
       "expiresAt": "2026-08-01T20:06:30.191Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.26.192.130",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-08-01T16:06:34.275Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.26.192.130",
+      "verifiedUserAgent": "python-requests/2.34.2"
     }
   ]
 }
