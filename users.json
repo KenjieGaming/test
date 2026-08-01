@@ -1832,7 +1832,7 @@
       "createdAt": "2026-08-01T15:58:21.776Z",
       "keysGenerated": 1,
       "totalKeys": 1,
-      "activeKeys": 0,
+      "activeKeys": 1,
       "lastLogin": "2026-08-01T15:58:24.814Z",
       "ipAddress": "10.27.111.131",
       "lastKeyGen": "2026-08-01T15:58:28.452Z"
