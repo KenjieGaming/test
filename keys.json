@@ -2504,6 +2504,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.26.192.130",
       "verifiedUserAgent": "python-requests/2.34.2"
+    },
+    {
+      "key": "GVE7-WOPH-QEAK-SCY4",
+      "username": "u9hlbcuppqf",
+      "createdAt": "2026-08-01T15:16:30.851Z",
+      "expiresAt": "2026-08-01T19:16:30.851Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.103.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
