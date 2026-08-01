@@ -2039,12 +2039,12 @@
       "username": "uk81az44g1g",
       "password": "kvLyRZBrm",
       "createdAt": "2026-08-01T16:07:42.904Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T16:07:45.589Z",
       "ipAddress": "10.26.192.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T16:07:50.379Z"
     }
   ]
 }
