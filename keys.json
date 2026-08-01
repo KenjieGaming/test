@@ -2129,6 +2129,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "DDXK-USJK-R5M4-H1WU",
+      "username": "u5hsu9b1xjz",
+      "createdAt": "2026-08-01T12:18:21.657Z",
+      "expiresAt": "2026-08-01T16:18:21.657Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.111.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
