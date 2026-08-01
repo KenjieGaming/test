@@ -2795,15 +2795,15 @@
       "username": "uy2w1483ywx",
       "createdAt": "2026-08-01T16:07:27.847Z",
       "expiresAt": "2026-08-01T20:07:27.847Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.26.192.130",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-08-01T16:07:32.867Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.26.103.129",
+      "verifiedUserAgent": "python-requests/2.34.2"
     }
   ]
 }
