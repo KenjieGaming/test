@@ -2564,6 +2564,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.26.103.129",
       "verifiedUserAgent": "python-requests/2.34.2"
+    },
+    {
+      "key": "VYXO-BZLF-PY0G-GBGG",
+      "username": "uos5ito8g78",
+      "createdAt": "2026-08-01T15:57:48.622Z",
+      "expiresAt": "2026-08-01T19:57:48.622Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.192.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
