@@ -1949,6 +1949,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "TU7Q-3YH6-SLXM-ULXB",
+      "username": "testuser99",
+      "createdAt": "2026-08-01T11:58:55.203Z",
+      "expiresAt": "2026-08-01T15:58:55.203Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.103.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
