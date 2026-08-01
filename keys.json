@@ -2819,6 +2819,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.26.192.130",
       "verifiedUserAgent": "python-requests/2.34.2"
+    },
+    {
+      "key": "SI4X-DRPO-OTIR-T4BB",
+      "username": "u490gkdx6bd",
+      "createdAt": "2026-08-01T16:08:12.975Z",
+      "expiresAt": "2026-08-01T20:08:12.975Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.111.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
