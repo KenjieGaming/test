@@ -2714,6 +2714,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.26.192.130",
       "verifiedUserAgent": "python-requests/2.34.2"
+    },
+    {
+      "key": "RD5R-JCD0-1KNG-BQQ0",
+      "username": "ue9wzeeutps",
+      "createdAt": "2026-08-01T16:05:20.895Z",
+      "expiresAt": "2026-08-01T20:05:20.895Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.103.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
