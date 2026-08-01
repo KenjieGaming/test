@@ -1962,12 +1962,12 @@
       "username": "ue9wzeeutps",
       "password": "k1p37ry0h",
       "createdAt": "2026-08-01T16:05:15.617Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T16:05:18.125Z",
       "ipAddress": "10.26.103.129",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T16:05:20.895Z"
     }
   ]
 }
