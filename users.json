@@ -1616,6 +1616,17 @@
       "lastLogin": null,
       "ipAddress": "10.27.111.131",
       "lastKeyGen": null
+    },
+    {
+      "username": "uegd38w969p",
+      "password": "km76KvNXf",
+      "createdAt": "2026-08-01T15:16:11.303Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.27.111.131",
+      "lastKeyGen": null
     }
   ]
 }
