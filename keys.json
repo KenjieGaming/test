@@ -2699,6 +2699,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.26.103.129",
       "verifiedUserAgent": "python-requests/2.34.2"
+    },
+    {
+      "key": "LIN6-DKJC-5YH8-6FFL",
+      "username": "uetg06eso1r",
+      "createdAt": "2026-08-01T16:05:00.828Z",
+      "expiresAt": "2026-08-01T20:05:00.828Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.192.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
