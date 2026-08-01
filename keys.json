@@ -2099,6 +2099,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "HN71-OQGM-Z3C9-V7WL",
+      "username": "ue775nops09",
+      "createdAt": "2026-08-01T12:16:35.973Z",
+      "expiresAt": "2026-08-01T16:16:35.973Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.192.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
