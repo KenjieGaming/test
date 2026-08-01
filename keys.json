@@ -2624,6 +2624,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.27.111.131",
       "verifiedUserAgent": "python-requests/2.34.2"
+    },
+    {
+      "key": "GCDG-8PVR-Q95B-DX9Y",
+      "username": "ufu8fm6dwil",
+      "createdAt": "2026-08-01T15:59:08.130Z",
+      "expiresAt": "2026-08-01T19:59:08.130Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.103.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
