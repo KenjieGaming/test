@@ -653,12 +653,12 @@
       "username": "ding",
       "password": "ding",
       "createdAt": "2026-08-01T09:17:39.954Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T09:17:44.983Z",
       "ipAddress": "10.26.103.129",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T09:17:59.339Z"
     }
   ]
 }
