@@ -2684,6 +2684,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "1ZWE-1J0H-CUTF-31LR",
+      "username": "udzwex0d31y",
+      "createdAt": "2026-08-01T16:04:38.837Z",
+      "expiresAt": "2026-08-01T20:04:38.837Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.111.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
