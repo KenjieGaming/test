@@ -2879,6 +2879,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.26.192.130",
       "verifiedUserAgent": "python-requests/2.34.2"
+    },
+    {
+      "key": "DOWY-5SCZ-VFWM-KVD3",
+      "username": "uu34y3qnuvg",
+      "createdAt": "2026-08-01T16:09:43.617Z",
+      "expiresAt": "2026-08-01T20:09:43.617Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.103.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
