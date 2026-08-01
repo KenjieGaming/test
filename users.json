@@ -714,17 +714,6 @@
       "lastLogin": "2026-07-31T13:51:55.625Z",
       "ipAddress": "10.27.111.131",
       "lastKeyGen": null
-    },
-    {
-      "username": "hotbog",
-      "password": "qweqwe",
-      "createdAt": "2026-07-31T15:28:49.967Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
-      "activeKeys": 0,
-      "lastLogin": "2026-08-01T02:26:45.420Z",
-      "ipAddress": "10.26.192.130",
-      "lastKeyGen": null
     }
   ]
 }
