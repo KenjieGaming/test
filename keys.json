@@ -2354,6 +2354,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "3Z1D-TMVY-J6Y0-MGD4",
+      "username": "uiq9vx72yj6",
+      "createdAt": "2026-08-01T12:32:55.696Z",
+      "expiresAt": "2026-08-01T16:32:55.696Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.111.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
