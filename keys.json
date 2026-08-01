@@ -1925,7 +1925,7 @@
       "username": "testuser99",
       "createdAt": "2026-08-01T11:52:40.861Z",
       "expiresAt": "2026-08-01T15:52:40.861Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.26.103.129",
       "referer": "direct",
