@@ -1799,6 +1799,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.27.111.131",
       "verifiedUserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5.2 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "key": "7HER-3KUF-6QGQ-PP9S",
+      "username": "AetherWare",
+      "createdAt": "2026-08-01T01:36:29.283Z",
+      "expiresAt": "2026-08-01T05:36:29.283Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.103.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
