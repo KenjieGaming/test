@@ -2006,12 +2006,12 @@
       "username": "ub0fx797gj6",
       "password": "krYg9X1PM",
       "createdAt": "2026-08-01T16:07:02.027Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T16:07:04.320Z",
       "ipAddress": "10.26.192.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T16:07:06.997Z"
     }
   ]
 }
