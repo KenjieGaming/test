@@ -1093,12 +1093,12 @@
       "username": "uwhwfuj3bil",
       "password": "kDWPSA5v4",
       "createdAt": "2026-08-01T12:32:36.373Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T12:32:39.316Z",
       "ipAddress": "10.27.111.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T12:32:43.387Z"
     }
   ]
 }
