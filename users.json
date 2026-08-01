@@ -895,12 +895,12 @@
       "username": "u5hsu9b1xjz",
       "password": "kbqGgADWE",
       "createdAt": "2026-08-01T12:18:17.442Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T12:18:19.543Z",
       "ipAddress": "10.27.111.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T12:18:21.657Z"
     }
   ]
 }
