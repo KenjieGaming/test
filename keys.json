@@ -2174,6 +2174,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "ZHKN-WP0Q-BRU9-0LB4",
+      "username": "umwr8apmpuz",
+      "createdAt": "2026-08-01T12:19:33.089Z",
+      "expiresAt": "2026-08-01T16:19:33.089Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.192.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
