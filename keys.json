@@ -2654,6 +2654,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.27.111.131",
       "verifiedUserAgent": "python-requests/2.34.2"
+    },
+    {
+      "key": "DDDL-TOSD-J9XZ-IAKZ",
+      "username": "uzpe429be7x",
+      "createdAt": "2026-08-01T16:00:06.105Z",
+      "expiresAt": "2026-08-01T20:00:06.105Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.111.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
