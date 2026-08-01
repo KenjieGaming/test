@@ -2339,6 +2339,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "DYDE-68LS-QF5I-BZU3",
+      "username": "uwhwfuj3bil",
+      "createdAt": "2026-08-01T12:32:43.387Z",
+      "expiresAt": "2026-08-01T16:32:43.387Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.111.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
