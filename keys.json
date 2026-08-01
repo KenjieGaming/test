@@ -2285,15 +2285,15 @@
       "username": "sarnel123",
       "createdAt": "2026-08-01T12:22:44.773Z",
       "expiresAt": "2026-08-01T16:22:44.773Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.26.103.129",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-08-01T12:23:28.665Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.26.103.129",
+      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
 }
