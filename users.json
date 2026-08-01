@@ -1990,6 +1990,17 @@
       "lastLogin": "2026-08-01T16:06:26.891Z",
       "ipAddress": "10.26.192.130",
       "lastKeyGen": "2026-08-01T16:06:30.191Z"
+    },
+    {
+      "username": "uasceg729da",
+      "password": "kZOU6ipoD",
+      "createdAt": "2026-08-01T16:06:43.504Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.26.103.129",
+      "lastKeyGen": null
     }
   ]
 }
