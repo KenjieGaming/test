@@ -1786,12 +1786,12 @@
       "username": "ubbhdkilzem",
       "password": "kJBxx21kf",
       "createdAt": "2026-08-01T15:57:22.035Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T15:57:24.910Z",
       "ipAddress": "10.27.111.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T15:57:28.077Z"
     }
   ]
 }
