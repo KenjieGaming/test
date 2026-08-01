@@ -2570,15 +2570,15 @@
       "username": "uos5ito8g78",
       "createdAt": "2026-08-01T15:57:48.622Z",
       "expiresAt": "2026-08-01T19:57:48.622Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.26.192.130",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-08-01T15:57:53.121Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.26.103.129",
+      "verifiedUserAgent": "python-requests/2.34.2"
     }
   ]
 }
