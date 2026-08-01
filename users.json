@@ -1852,12 +1852,12 @@
       "username": "ufu8fm6dwil",
       "password": "kLFrjtEqc",
       "createdAt": "2026-08-01T15:59:02.037Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T15:59:05.016Z",
       "ipAddress": "10.26.103.129",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T15:59:08.130Z"
     }
   ]
 }
