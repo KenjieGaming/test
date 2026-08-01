@@ -2534,6 +2534,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "YU44-0343-6SNG-4S84",
+      "username": "ubvlh8huyhd",
+      "createdAt": "2026-08-01T15:56:36.926Z",
+      "expiresAt": "2026-08-01T19:56:36.926Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.192.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
