@@ -2789,6 +2789,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.26.192.130",
       "verifiedUserAgent": "python-requests/2.34.2"
+    },
+    {
+      "key": "AZGQ-HZQM-AGC5-VIZL",
+      "username": "uy2w1483ywx",
+      "createdAt": "2026-08-01T16:07:27.847Z",
+      "expiresAt": "2026-08-01T20:07:27.847Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.192.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
