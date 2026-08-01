@@ -2234,6 +2234,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "2J0T-2ULO-QD5H-DA1R",
+      "username": "uclkz5kd0if",
+      "createdAt": "2026-08-01T12:21:17.833Z",
+      "expiresAt": "2026-08-01T16:21:17.833Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.111.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
