@@ -2519,6 +2519,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.26.103.129",
       "verifiedUserAgent": "python-requests/2.34.2"
+    },
+    {
+      "key": "89BS-CYP6-MK57-B9SY",
+      "username": "updr5121wuc",
+      "createdAt": "2026-08-01T15:55:49.947Z",
+      "expiresAt": "2026-08-01T19:55:49.947Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.111.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
