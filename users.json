@@ -818,12 +818,12 @@
       "username": "u8abv0yryz9",
       "password": "kty5WnuDI",
       "createdAt": "2026-08-01T12:13:40.647Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T12:13:42.575Z",
       "ipAddress": "10.26.192.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T12:13:53.056Z"
     }
   ]
 }
