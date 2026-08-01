@@ -796,12 +796,12 @@
       "username": "u0lfrmkd0oo",
       "password": "kCbbsgNLe",
       "createdAt": "2026-08-01T12:12:14.959Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T12:12:17.216Z",
       "ipAddress": "10.26.192.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T12:12:20.482Z"
     }
   ]
 }
