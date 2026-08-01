@@ -2864,6 +2864,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.26.192.130",
       "verifiedUserAgent": "python-requests/2.34.2"
+    },
+    {
+      "key": "OW10-6PTJ-FK47-SSX1",
+      "username": "ujcbd7hlxpv",
+      "createdAt": "2026-08-01T16:09:22.939Z",
+      "expiresAt": "2026-08-01T20:09:22.939Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.103.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
