@@ -1979,6 +1979,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "OIT5-MHYJ-YB38-BZV0",
+      "username": "daniel",
+      "createdAt": "2026-08-01T12:04:17.306Z",
+      "expiresAt": "2026-08-01T16:04:17.306Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.111.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
