@@ -1805,15 +1805,15 @@
       "username": "AetherWare",
       "createdAt": "2026-08-01T01:36:29.283Z",
       "expiresAt": "2026-08-01T05:36:29.283Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.26.103.129",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-08-01T01:36:59.187Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.26.103.129",
+      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
     }
   ]
 }
