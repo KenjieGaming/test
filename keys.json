@@ -2384,6 +2384,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "KTC5-YN3W-T9U5-UWU1",
+      "username": "ud4vfnv9kwi",
+      "createdAt": "2026-08-01T12:33:21.354Z",
+      "expiresAt": "2026-08-01T16:33:21.354Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.192.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
