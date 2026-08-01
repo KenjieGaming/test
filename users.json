@@ -719,12 +719,12 @@
       "username": "uxbxu1eg6y0",
       "password": "kVjQdcveE",
       "createdAt": "2026-08-01T12:01:04.200Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T12:01:05.662Z",
       "ipAddress": "10.27.111.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T12:01:08.099Z"
     }
   ]
 }
