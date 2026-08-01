@@ -967,6 +967,17 @@
       "lastLogin": "2026-08-01T12:20:42.219Z",
       "ipAddress": "10.27.111.131",
       "lastKeyGen": "2026-08-01T12:20:44.741Z"
+    },
+    {
+      "username": "uclkz5kd0if",
+      "password": "kdCXWTmJN",
+      "createdAt": "2026-08-01T12:21:13.359Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.27.111.131",
+      "lastKeyGen": null
     }
   ]
 }
