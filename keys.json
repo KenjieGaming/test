@@ -2009,6 +2009,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "O9ZE-3Z1L-N7A2-FK66",
+      "username": "u0lfrmkd0oo",
+      "createdAt": "2026-08-01T12:12:20.482Z",
+      "expiresAt": "2026-08-01T16:12:20.482Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.192.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
