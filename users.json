@@ -950,12 +950,12 @@
       "username": "um554ukyf5f",
       "password": "kOSgaOWqY",
       "createdAt": "2026-08-01T12:20:14.722Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T12:20:17.889Z",
       "ipAddress": "10.26.103.129",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T12:20:20.339Z"
     }
   ]
 }
