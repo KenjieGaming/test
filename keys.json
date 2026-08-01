@@ -1904,6 +1904,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.27.111.131",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+    },
+    {
+      "key": "4LW0-2DE3-N6H8-5PZH",
+      "username": "denzxoo",
+      "createdAt": "2026-08-01T11:12:39.636Z",
+      "expiresAt": "2026-08-01T15:12:39.636Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.111.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
