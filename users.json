@@ -1082,12 +1082,12 @@
       "username": "ucqkk1d8g2i",
       "password": "khooM3P0A",
       "createdAt": "2026-08-01T12:32:27.498Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T12:32:29.343Z",
       "ipAddress": "10.27.111.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T12:32:31.710Z"
     }
   ]
 }
