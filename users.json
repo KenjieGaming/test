@@ -1951,12 +1951,12 @@
       "username": "uetg06eso1r",
       "password": "kjDwJC7nT",
       "createdAt": "2026-08-01T16:04:53.883Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T16:04:56.793Z",
       "ipAddress": "10.26.103.129",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T16:05:00.828Z"
     }
   ]
 }
