@@ -1170,12 +1170,12 @@
       "username": "ue7elf21nhg",
       "password": "kSXTd2tnm",
       "createdAt": "2026-08-01T12:34:33.001Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T12:34:36.665Z",
       "ipAddress": "10.27.111.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T12:34:41.339Z"
     }
   ]
 }
