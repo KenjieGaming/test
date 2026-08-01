@@ -2645,15 +2645,15 @@
       "username": "up1c7c5x80y",
       "createdAt": "2026-08-01T15:59:27.065Z",
       "expiresAt": "2026-08-01T19:59:27.065Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.26.192.130",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-08-01T15:59:32.096Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.27.111.131",
+      "verifiedUserAgent": "python-requests/2.34.2"
     }
   ]
 }
