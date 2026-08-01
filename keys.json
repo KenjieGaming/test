@@ -2069,6 +2069,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "1QRP-R35M-I9CG-1HPI",
+      "username": "uq13c4g54bb",
+      "createdAt": "2026-08-01T12:14:49.823Z",
+      "expiresAt": "2026-08-01T16:14:49.823Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.111.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
