@@ -917,12 +917,12 @@
       "username": "uvjbxdqh5oc",
       "password": "kZTifx6uz",
       "createdAt": "2026-08-01T12:19:04.444Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T12:19:06.631Z",
       "ipAddress": "10.27.111.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T12:19:08.821Z"
     }
   ]
 }
