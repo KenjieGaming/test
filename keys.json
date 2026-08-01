@@ -1880,7 +1880,7 @@
       "username": "ding",
       "createdAt": "2026-08-01T09:17:59.338Z",
       "expiresAt": "2026-08-01T13:17:59.338Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.26.103.129",
       "referer": "direct",
