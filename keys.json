@@ -1889,6 +1889,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.26.103.129",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+    },
+    {
+      "key": "VSY0-XEL6-2DQ9-DX0A",
+      "username": "vince121",
+      "createdAt": "2026-08-01T09:57:29.109Z",
+      "expiresAt": "2026-08-01T13:57:29.109Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.103.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
