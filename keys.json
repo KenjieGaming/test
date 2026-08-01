@@ -2609,6 +2609,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.27.111.131",
       "verifiedUserAgent": "python-requests/2.34.2"
+    },
+    {
+      "key": "X15L-Z8MP-7VIG-B5QG",
+      "username": "uarduxua9ta",
+      "createdAt": "2026-08-01T15:58:47.742Z",
+      "expiresAt": "2026-08-01T19:58:47.742Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.111.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
