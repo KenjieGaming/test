@@ -1918,12 +1918,12 @@
       "username": "umg3u2rswdx",
       "password": "k0dvO4e34",
       "createdAt": "2026-08-01T16:04:15.274Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T16:04:17.520Z",
       "ipAddress": "10.27.111.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T16:04:20.408Z"
     }
   ]
 }
