@@ -1033,6 +1033,17 @@
       "lastLogin": null,
       "ipAddress": "10.26.103.129",
       "lastKeyGen": null
+    },
+    {
+      "username": "urggwruk45d",
+      "password": "kguiGqHMb",
+      "createdAt": "2026-08-01T12:23:24.846Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.26.103.129",
+      "lastKeyGen": null
     }
   ]
 }
