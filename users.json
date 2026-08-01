@@ -840,12 +840,12 @@
       "username": "uq13c4g54bb",
       "password": "kmwIc6gkM",
       "createdAt": "2026-08-01T12:14:40.978Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T12:14:45.879Z",
       "ipAddress": "10.26.103.129",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T12:14:49.823Z"
     }
   ]
 }
