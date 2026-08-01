@@ -2840,15 +2840,15 @@
       "username": "uvujfxflmof",
       "createdAt": "2026-08-01T16:08:33.433Z",
       "expiresAt": "2026-08-01T20:08:33.433Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.26.192.130",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-08-01T16:08:38.952Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.26.192.130",
+      "verifiedUserAgent": "python-requests/2.34.2"
     }
   ]
 }
