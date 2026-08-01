@@ -1060,12 +1060,12 @@
       "username": "uly0ijmejn9",
       "password": "k9fjgS6cr",
       "createdAt": "2026-08-01T12:23:31.688Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T12:23:36.087Z",
       "ipAddress": "10.27.111.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T12:23:38.830Z"
     }
   ]
 }
