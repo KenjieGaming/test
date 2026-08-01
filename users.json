@@ -664,12 +664,12 @@
       "username": "testuser99",
       "password": "test1234",
       "createdAt": "2026-08-01T11:52:18.141Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T11:52:19.983Z",
       "ipAddress": "10.26.103.129",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T11:52:40.861Z"
     }
   ]
 }
