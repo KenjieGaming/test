@@ -2705,15 +2705,15 @@
       "username": "uetg06eso1r",
       "createdAt": "2026-08-01T16:05:00.828Z",
       "expiresAt": "2026-08-01T20:05:00.828Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.26.192.130",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-08-01T16:05:06.312Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.26.192.130",
+      "verifiedUserAgent": "python-requests/2.34.2"
     }
   ]
 }
