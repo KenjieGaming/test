@@ -2600,15 +2600,15 @@
       "username": "uy5k8pcguyd",
       "createdAt": "2026-08-01T15:58:28.452Z",
       "expiresAt": "2026-08-01T19:58:28.452Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.27.111.131",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-08-01T15:58:33.174Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.27.111.131",
+      "verifiedUserAgent": "python-requests/2.34.2"
     }
   ]
 }
