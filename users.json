@@ -648,6 +648,17 @@
       "lastLogin": "2026-07-31T13:43:42.302Z",
       "ipAddress": "10.26.103.129",
       "lastKeyGen": "2026-07-31T13:44:02.635Z"
+    },
+    {
+      "username": "ding",
+      "password": "ding",
+      "createdAt": "2026-08-01T09:17:39.954Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.26.103.129",
+      "lastKeyGen": null
     }
   ]
 }
