@@ -2894,6 +2894,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.26.103.129",
       "verifiedUserAgent": "python-requests/2.34.2"
+    },
+    {
+      "key": "9UYZ-UMGP-61YL-IDU6",
+      "username": "utpk8p6t6e3",
+      "createdAt": "2026-08-01T16:42:15.517Z",
+      "expiresAt": "2026-08-01T20:42:15.517Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.192.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
