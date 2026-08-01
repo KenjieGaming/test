@@ -2309,6 +2309,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "GTK4-J9JQ-K7G2-7ZFM",
+      "username": "u7s6q71ohno",
+      "createdAt": "2026-08-01T12:30:59.588Z",
+      "expiresAt": "2026-08-01T16:30:59.588Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.192.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
