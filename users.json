@@ -868,6 +868,17 @@
       "lastLogin": "2026-08-01T12:16:32.913Z",
       "ipAddress": "10.26.103.129",
       "lastKeyGen": "2026-08-01T12:16:35.973Z"
+    },
+    {
+      "username": "uwus2xje21s",
+      "password": "kFuBivvkd",
+      "createdAt": "2026-08-01T12:16:57.990Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.27.111.131",
+      "lastKeyGen": null
     }
   ]
 }
