@@ -2399,6 +2399,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "Y26B-1ZED-NZ0L-GA5U",
+      "username": "ue7elf21nhg",
+      "createdAt": "2026-08-01T12:34:41.339Z",
+      "expiresAt": "2026-08-01T16:34:41.339Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.192.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
