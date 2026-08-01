@@ -714,6 +714,17 @@
       "lastLogin": null,
       "ipAddress": "10.27.111.131",
       "lastKeyGen": null
+    },
+    {
+      "username": "uxbxu1eg6y0",
+      "password": "kVjQdcveE",
+      "createdAt": "2026-08-01T12:01:04.200Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.26.103.129",
+      "lastKeyGen": null
     }
   ]
 }
