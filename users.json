@@ -2105,12 +2105,12 @@
       "username": "uu34y3qnuvg",
       "password": "kQbeonvzN",
       "createdAt": "2026-08-01T16:09:37.356Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T16:09:39.898Z",
       "ipAddress": "10.26.103.129",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T16:09:43.617Z"
     }
   ]
 }
