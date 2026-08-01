@@ -2855,15 +2855,15 @@
       "username": "uhcgeqcp8ny",
       "createdAt": "2026-08-01T16:08:55.404Z",
       "expiresAt": "2026-08-01T20:08:55.404Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.26.103.129",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-08-01T16:09:00.963Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.26.192.130",
+      "verifiedUserAgent": "python-requests/2.34.2"
     }
   ]
 }
