@@ -1528,6 +1528,17 @@
       "lastLogin": null,
       "ipAddress": "10.26.103.129",
       "lastKeyGen": null
+    },
+    {
+      "username": "un73gztgjx7",
+      "password": "kLIy5ispL",
+      "createdAt": "2026-08-01T12:46:19.841Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.26.103.129",
+      "lastKeyGen": null
     }
   ]
 }
