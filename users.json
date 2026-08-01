@@ -1973,12 +1973,12 @@
       "username": "ukfdjiqy23z",
       "password": "kbP8qa7r3",
       "createdAt": "2026-08-01T16:05:47.834Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T16:05:50.076Z",
       "ipAddress": "10.26.192.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T16:05:53.673Z"
     }
   ]
 }
