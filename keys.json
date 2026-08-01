@@ -2219,6 +2219,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "153L-6KXV-CFHD-FDOW",
+      "username": "u8so6612ngz",
+      "createdAt": "2026-08-01T12:20:44.741Z",
+      "expiresAt": "2026-08-01T16:20:44.741Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.111.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
