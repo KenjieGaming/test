@@ -829,12 +829,12 @@
       "username": "u3hhrr027ey",
       "password": "kbOMNSU3Q",
       "createdAt": "2026-08-01T12:14:08.534Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T12:14:10.848Z",
       "ipAddress": "10.27.111.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T12:14:13.623Z"
     }
   ]
 }
