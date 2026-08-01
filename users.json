@@ -1797,12 +1797,12 @@
       "username": "uos5ito8g78",
       "password": "krIydhy5W",
       "createdAt": "2026-08-01T15:57:42.556Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-01T15:57:45.091Z",
       "ipAddress": "10.27.111.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-01T15:57:48.622Z"
     }
   ]
 }
