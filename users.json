@@ -2232,6 +2232,17 @@
       "lastLogin": "2026-08-02T11:10:00.218Z",
       "ipAddress": "10.26.103.129",
       "lastKeyGen": "2026-08-02T11:10:04.098Z"
+    },
+    {
+      "username": "cartel",
+      "password": "123456789",
+      "createdAt": "2026-08-02T13:04:49.780Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.26.103.129",
+      "lastKeyGen": null
     }
   ]
 }
