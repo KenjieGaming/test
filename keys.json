@@ -2999,6 +2999,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.26.192.130",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0"
+    },
+    {
+      "key": "ATUY-Y9C3-H8MP-2L7D",
+      "username": "usup1pc8buz",
+      "createdAt": "2026-08-02T04:33:34.695Z",
+      "expiresAt": "2026-08-02T08:33:34.695Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.111.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
