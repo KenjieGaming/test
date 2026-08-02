@@ -2171,12 +2171,12 @@
       "username": "usup1pc8buz",
       "password": "kDPpLmmih",
       "createdAt": "2026-08-02T04:33:28.719Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-02T04:33:31.483Z",
       "ipAddress": "10.27.111.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-02T04:33:34.695Z"
     }
   ]
 }
