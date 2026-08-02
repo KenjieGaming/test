@@ -2924,6 +2924,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.26.103.129",
       "verifiedUserAgent": "python-requests/2.34.2"
+    },
+    {
+      "key": "MLDA-Z5N3-ZRFS-P7PN",
+      "username": "user7891",
+      "createdAt": "2026-08-02T01:48:19.978Z",
+      "expiresAt": "2026-08-02T05:48:19.978Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.103.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
