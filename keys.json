@@ -2960,15 +2960,15 @@
       "username": "Yanixx",
       "createdAt": "2026-08-02T02:05:38.880Z",
       "expiresAt": "2026-08-02T06:05:38.880Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.26.192.130",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-08-02T02:06:07.363Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.26.103.129",
+      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
     }
   ]
 }
