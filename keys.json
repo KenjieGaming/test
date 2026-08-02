@@ -2954,6 +2954,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "JPF9-BBTA-BKWC-UUYE",
+      "username": "Yanixx",
+      "createdAt": "2026-08-02T02:05:38.880Z",
+      "expiresAt": "2026-08-02T06:05:38.880Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.192.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
