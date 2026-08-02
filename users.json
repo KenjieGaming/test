@@ -2259,12 +2259,12 @@
       "username": "ufsrcmr03rn",
       "password": "koVH6oCBW",
       "createdAt": "2026-08-02T13:58:35.032Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-02T13:58:38.183Z",
       "ipAddress": "10.26.192.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-02T13:58:41.340Z"
     }
   ]
 }
