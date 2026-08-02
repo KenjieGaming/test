@@ -2243,6 +2243,17 @@
       "lastLogin": "2026-08-02T13:05:03.760Z",
       "ipAddress": "10.26.103.129",
       "lastKeyGen": null
+    },
+    {
+      "username": "uzuwmc5rell",
+      "password": "kMmHZ3oQJ",
+      "createdAt": "2026-08-02T13:58:33.189Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.26.192.130",
+      "lastKeyGen": null
     }
   ]
 }
