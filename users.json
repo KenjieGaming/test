@@ -2182,12 +2182,12 @@
       "username": "JUROS",
       "password": "JUROS",
       "createdAt": "2026-08-02T07:00:33.268Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-02T07:00:50.934Z",
       "ipAddress": "10.26.192.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-02T07:01:00.163Z"
     }
   ]
 }
