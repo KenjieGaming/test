@@ -3050,7 +3050,7 @@
       "username": "JUROS",
       "createdAt": "2026-08-02T07:01:00.163Z",
       "expiresAt": "2026-08-02T11:01:00.163Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.26.192.130",
       "referer": "direct",
