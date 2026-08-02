@@ -2226,12 +2226,12 @@
       "username": "u3v8fp93aan",
       "password": "k26nJp75j",
       "createdAt": "2026-08-02T11:09:56.897Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-02T11:10:00.218Z",
       "ipAddress": "10.26.103.129",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-02T11:10:04.098Z"
     }
   ]
 }
