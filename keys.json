@@ -3080,15 +3080,15 @@
       "username": "u3v8fp93aan",
       "createdAt": "2026-08-02T11:10:04.098Z",
       "expiresAt": "2026-08-02T15:10:04.098Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.26.192.130",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-08-02T11:10:09.543Z",
+      "verifiedFrom": "dashboard",
+      "verifiedIP": "10.26.192.130",
+      "verifiedUserAgent": "python-requests/2.34.2"
     }
   ]
 }
