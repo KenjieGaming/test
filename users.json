@@ -2149,12 +2149,12 @@
       "username": "user7891",
       "password": "@@qq13579",
       "createdAt": "2026-08-02T01:46:15.927Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-02T01:47:56.623Z",
       "ipAddress": "10.26.103.129",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-02T01:48:19.978Z"
     }
   ]
 }
