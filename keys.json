@@ -35,7 +35,7 @@
       "username": "daniel",
       "createdAt": "2026-08-04T09:26:47.392Z",
       "expiresAt": "2026-08-04T13:26:47.392Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.27.111.131",
       "referer": "direct",
