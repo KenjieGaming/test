@@ -70,12 +70,12 @@
       "username": "Yanixx",
       "password": "yanixx",
       "createdAt": "2026-07-24T00:51:08.574Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-04T10:20:06.798Z",
       "ipAddress": "10.26.103.129",
-      "lastKeyGen": "2026-08-02T06:40:18.861Z"
+      "lastKeyGen": "2026-08-04T10:20:14.517Z"
     },
     {
       "username": "olol",
