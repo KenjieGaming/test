@@ -89,6 +89,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.26.103.129",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "key": "DEGI-1PUO-F6M7-TNN5",
+      "username": "parpar",
+      "createdAt": "2026-08-04T11:13:49.965Z",
+      "expiresAt": "2026-08-04T15:13:49.965Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.192.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
