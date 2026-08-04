@@ -104,6 +104,21 @@
       "verifiedFrom": "dashboard",
       "verifiedIP": "10.26.192.130",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    {
+      "key": "KOT7-DMVT-LNQH-DS2W",
+      "username": "pael123",
+      "createdAt": "2026-08-04T13:06:34.987Z",
+      "expiresAt": "2026-08-04T17:06:34.987Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.103.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
