@@ -2303,12 +2303,12 @@
       "username": "ANGELO",
       "password": "GANG123",
       "createdAt": "2026-08-04T10:51:03.206Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-04T10:51:09.630Z",
       "ipAddress": "10.27.111.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-04T10:51:21.534Z"
     }
   ]
 }
