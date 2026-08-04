@@ -2270,12 +2270,12 @@
       "username": "parpar",
       "password": "korkor",
       "createdAt": "2026-08-04T05:33:03.293Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-04T05:33:09.215Z",
       "ipAddress": "10.26.192.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-04T05:33:19.905Z"
     }
   ]
 }
