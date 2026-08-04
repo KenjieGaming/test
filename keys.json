@@ -1,3 +1,19 @@
 {
-  "keys": []
+  "keys": [
+    {
+      "key": "QX7P-G6GL-22ZH-2JTX",
+      "username": "parpar",
+      "createdAt": "2026-08-04T05:33:19.905Z",
+      "expiresAt": "2026-08-04T09:33:19.905Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.192.130",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
+    }
+  ]
 }
