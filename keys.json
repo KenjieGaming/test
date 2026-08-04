@@ -80,7 +80,7 @@
       "username": "pael123",
       "createdAt": "2026-08-04T13:06:34.987Z",
       "expiresAt": "2026-08-04T17:06:34.987Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.26.103.129",
       "referer": "direct",
