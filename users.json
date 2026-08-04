@@ -2314,12 +2314,12 @@
       "username": "pael123",
       "password": "09468895533",
       "createdAt": "2026-08-04T13:05:58.466Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-04T13:06:11.294Z",
       "ipAddress": "10.26.192.130",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-04T13:06:34.987Z"
     }
   ]
 }
