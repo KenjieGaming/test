@@ -2298,6 +2298,17 @@
       "lastLogin": "2026-08-04T05:56:12.556Z",
       "ipAddress": "10.26.192.130",
       "lastKeyGen": null
+    },
+    {
+      "username": "ANGELO",
+      "password": "GANG123",
+      "createdAt": "2026-08-04T10:51:03.206Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.26.192.130",
+      "lastKeyGen": null
     }
   ]
 }
