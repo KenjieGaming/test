@@ -2281,12 +2281,12 @@
       "username": "iskoy",
       "password": "karkorkor",
       "createdAt": "2026-08-04T05:42:44.247Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-08-04T05:43:15.063Z",
       "ipAddress": "10.27.111.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-08-04T05:44:21.355Z"
     }
   ]
 }
